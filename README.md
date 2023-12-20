@@ -22,6 +22,7 @@ Open a terminal or command prompt and run the following command to clone the rep
 ```bash
 git clone https://github.com/your-username/spring-boot-project.git
 
+###Make these changes in resources/application
 spring.datasource.url=jdbc:postgresql://your-postgresql-host:5432/your-database-name
 spring.datasource.username=your-username
 spring.datasource.password=your-password
